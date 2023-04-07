@@ -1,0 +1,22 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# environment variables
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# IDE files
+/.idea
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# others
+.npmrc
+yarn-error.log
